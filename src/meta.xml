@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- // Copyright 1999-2017. Plesk International GmbH. -->
+<module>
+	<id>php-api-lib-demo</id>
+	<name>Demo of PHP library for Plesk API-RPC usage</name>
+	<description>This extension demonstrates how to use PHP library for Plesk API-RPC (https://github.com/plesk/api-php-lib)</description>
+	<version>1.0.0</version>
+	<release>{{RELEASE}}</release>
+	<vendor>Plesk</vendor>
+	<url>https://github.com/plesk/ext-php-api-lib-demo</url>
+	<category>example</category>
+	<plesk_min_version>17.0</plesk_min_version>
+</module>

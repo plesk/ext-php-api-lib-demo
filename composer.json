@@ -1,0 +1,12 @@
+{
+  "name": "plesk/ext-php-api-lib-demo",
+  "config": {
+    "vendor-dir": "src/plib/vendor"
+  },
+  "require": {
+    "plesk/api-php-lib": "@dev"
+  },
+  "require-dev": {
+    "plesk/pm-api-stubs": "^17.0"
+  }
+}
